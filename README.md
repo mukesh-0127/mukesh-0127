@@ -20,3 +20,15 @@ I'm a student developer interested in software development, AI, robotics, and pr
 ---
 [![](https://komarev.com/ghpvc/?username=mukesh-0127&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Featured Projects
+
+### 🏫 PM SHRI School Digital Portal
+A digital platform developed for my school to provide academic, institutional, and school-related information online.
+
+**Tech:** HTML, CSS, JavaScript, React/Next.js  
+🔗 [Live Demo](https://school.pmshrijaswantpura.workers.dev/)
+
+### 🏢 STARKON Industries
+A technology-focused web project exploring AI, robotics, aerospace, quantum computing, and other emerging technologies.
+
+🔗 [Live Demo](https://stri.lovable.app/)
