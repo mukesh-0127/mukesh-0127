@@ -12,7 +12,7 @@ I'm a student developer interested in software development, AI, robotics, and pr
 ![](https://github-profile-trophy.vercel.app/?username=mukesh-0127&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+“You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.”
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mukesh-0127&limit=5&theme=dark&combine_all_yearly_contributions=true)
